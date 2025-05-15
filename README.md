@@ -11,8 +11,6 @@
 
 #### - 🎮 No meu tempo livre gosto de jogar video-game e ouvir musicas. 
 
-# 🎯 Objetivos futuros 
- - Finalizar o curso tecnico de tei 
 
 📫 **Contato**  
 - **Email:** Thurfelix10@gmail.com  
