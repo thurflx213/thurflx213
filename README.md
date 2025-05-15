@@ -1,16 +1,18 @@
-## Hi there 👋
+#  Olá, eu sou Arthur Felix
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Eu%20tenho 17anos;Eu%20estudo%20tei%20no%20Senac;Bem-vindo%20ao%20meu%20GitHub!&font=Pacifico&center=true&width=650&height=120&color=1fe0bf&vCenter=true&size=45%22">
 
-<!--
-**thurflx213/thurflx213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### - 💻 Sou aluno do curso de Informatica do senac, fazendo programação, desenvolvimento de software e novas tecnologias.
+
+#### - 📖 Ainda esse ano eu finalizo o terceiro ano do ensino medio.
+
+#### - 📚 tenho um leve conhecimento em hardware, redes e atualmente estudando sobre sistemas.
+
+#### - 🎮 No meu tempo livre gosto de jogar video-game e ouvir musicas. 
+
+# 🎯 Objetivos futuros 
+ - Finalizar o curso tecnico de tei 
+
+📫 **Contato**  
+- **Email:** Thurfelix10@gmail.com  
